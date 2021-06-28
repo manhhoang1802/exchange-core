@@ -452,10 +452,6 @@
     </profiles>
 
     <distributionManagement>
-        <snapshotRepository>
-            <id>nexus</id>
-            <url>${maven.local.repo}</url>
-        </snapshotRepository>
         <repository>
             <id>nexus</id>
             <url>${maven.local.repo}</url>
